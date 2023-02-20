@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brettseaton
-- 👀 I’m interested in building private stock ownership into everyday transactions at tryvest.us. Also interested in building generative AI tools for local journalists!
-- 🌱 I’m currently learning CS and Finance at Penn. Coursework includes CIS 110, CIS 120, CIS 160, and CIS 121. Concepts covered include OCaml, Java, discrete mathematics, data structures and algorithms.
+- Interests include: in the ownership economy and local journalism.
+- I’m currently learning CS and Finance at Penn. Coursework includes CIS 110, CIS 120, CIS 160, and CIS 121. Concepts covered include Python, OCaml, Java, discrete mathematics, data structures and algorithms.
 - 📫 How to reach me ... bseaton@wharton.upenn.edu
 
 <!---
