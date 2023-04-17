@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brettseaton
-- Interests include: in the ownership economy and local journalism.
+- Interests include: The O=ownership economy and local journalism.
 - I’m currently learning CS and Finance at Penn. Coursework includes CIS 110, CIS 120, CIS 160, and CIS 121. Concepts covered include Python, OCaml, Java, discrete mathematics, data structures and algorithms.
 - 📫 How to reach me ... bseaton@wharton.upenn.edu
 
